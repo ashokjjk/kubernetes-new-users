@@ -1,9 +1,13 @@
 # Kubernetes user creation
 
-<p>This guide helps you create and configure kubernetes users on both client and admin side. To enhance more security with RBAC and gain more leverage please check out <a href="https://github.com/ashokjjk/gatekeeper-k8s-library">gatekeeper</a> At the end of this demo you will be in a position to add and manage users to your kubernetes cluster</p> 
+<p>This guide helps you create and configure kubernetes users on both client and admin side. To enhance more security with RBAC and gain more leverage please check out <a href="https://github.com/ashokjjk/gatekeeper-k8s-library">gatekeeper</a>.
+At the end of this demo you will be in a position to add and manage users to your kubernetes cluster</p> 
 <p>A complete sample data is provided along with this repository. Instead you can create your own by following the below steps</p>
-<u>Captions</u>
+
+<b>Captions</b>
+
 Client - dev, operations, user
+
 Admin - cluster administrator
 
 ## Steps
